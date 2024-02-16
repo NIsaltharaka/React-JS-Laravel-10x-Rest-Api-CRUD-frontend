@@ -1,71 +1,14 @@
-# Getting Started with Create React App
+![form](https://github.com/NIsaltharaka/React-JS-Laravel-10x-Rest-Api-CRUD-frontend/assets/134293075/939b617b-06c0-4913-a874-da320b7dbdec)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![details](https://github.com/NIsaltharaka/React-JS-Laravel-10x-Rest-Api-CRUD-frontend/assets/134293075/444dffcd-c3a9-4bc0-8b9f-4da550349d61)
 
-## Available Scripts
+![view details](https://github.com/NIsaltharaka/React-JS-Laravel-10x-Rest-Api-CRUD-frontend/assets/134293075/3f4e535d-0311-4475-a20f-8113a36a5061)
 
-In the project directory, you can run:
+![edit details](https://github.com/NIsaltharaka/React-JS-Laravel-10x-Rest-Api-CRUD-frontend/assets/134293075/a84e7daa-4c93-4fba-931f-604e4d103854)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project involves the integration of React.js and Laravel 10 to create a full-stack web application. The frontend is built using React.js, a popular JavaScript library for building user interfaces, providing a dynamic and efficient user experience. On the backend, Laravel 10, a PHP web application framework, is employed to handle server-side logic and database interactions.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The application follows a RESTful architecture, implementing CRUD (Create, Read, Update, Delete) operations to manage data. Axios, a promise-based HTTP client, facilitates communication between the React.js frontend and the Laravel 10 backend by making asynchronous requests to the RESTful API.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# React-JS-Laravel-10x-Rest-Api-CRUD-frontend" 
+For data storage and retrieval, MySQL, a relational database management system, is utilized. The integration of these technologies ensures a seamless flow of data between the client and server, enabling efficient handling of user interactions and data management in the application.
